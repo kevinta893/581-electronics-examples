@@ -9,6 +9,10 @@ See [Fritzing](http://fritzing.org/home/) to edit wiring diagrams.
 ## Sample Code
 All sample code has some wiring documentation. Raspberry Pi code has been written in an Arduino style layout with setup(), loop(), and destory() functions.
 
+Sample code has been tested on:
+* **Arduino Mega 2560** 
+* **Raspberry Pi 1 Model A**
+
 
 ### Raspberry Pi:
 1. **led_blink** - A basic blink an LED 
