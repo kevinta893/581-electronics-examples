@@ -1,9 +1,9 @@
 # 581 Electronics Examples
 
-A number of examples of basic electronics on both Arduino and Raspberry Pi. This also includes wiring diagrams and some templates.
+A number of examples of basic electronics on both Arduino and Raspberry Pi. This also includes wiring diagrams and some templates. Intended for students in CPSC 581 at the University of Calgary.
 
 
-See Fritzing to edit wiring diagrams.
+See [Fritzing](http://fritzing.org/home/) to edit wiring diagrams.
 
 
 ## Sample Code
