@@ -8,12 +8,14 @@ def setup():
     GPIO.setmode(GPIO.BOARD)
     GPIO.setup(servoPin, GPIO.OUT)
 
+    global servo1
     servo1 = GPIO.PWM(servoPin, 50)	#channel (pin), frequency
     servo1.start(7.5)
 
 
 def loop():
     while True:
+        global servo1
         servo1.ChangeDutyCycle(7.5)  # turn towards 90 degree
         time.sleep(1)               # sleep 1 second
         servo1.ChangeDutyCycle(2.5)  # turn towards 0 degree
