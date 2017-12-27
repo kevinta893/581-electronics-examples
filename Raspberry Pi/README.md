@@ -1,6 +1,6 @@
 # Raspberry Pi Examples
 
-The Raspberry Pi examples come with Wiring diagrams and feature the Analog Digital Converter IC [MCP3008](https://cdn-shop.adafruit.com/datasheets/MCP3008.pdf) by Adafruit. It is an 8 channel analog input device that lets you use analog input components like force sensitive resistors and sliders.
+The Raspberry Pi examples come with Wiring diagrams and feature the Analog Digital Converter IC [MCP3008](https://cdn-shop.adafruit.com/datasheets/MCP3008.pdf) by Adafruit. It is an 8 channel analog input device (like the analog pins on Arduino) that lets you use analog input components like force sensitive resistors and sliders.
 
 
 Example programs:
